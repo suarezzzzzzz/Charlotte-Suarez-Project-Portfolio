@@ -18,9 +18,9 @@ To answer this question, we combined publicly available traffic stop data with h
 
 ## Project Components:
 
-* **Data Cleaning**: One example of the preparation and transformation of a teams dataset to create a consistent format suitable for analysis.
-* **Statistical Modeling**: An example of the analytical methods used to evaluate relationships between sporting events and traffic stop activity.
-* **Final Report**: A summary of our methodology, analysis, findings, and conclusions.
+* **[Data Cleaning](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/blob/main/Passion%20or%20Public%20Disorder/CleaningScript%20(1).ipynb)**: One example of the preparation and transformation of a teams dataset to create a consistent format suitable for analysis.
+* **[Statistical Modeling](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/blob/main/Passion%20or%20Public%20Disorder/Eagles%20Modeling.ipynb)**: An example of the analytical methods used to evaluate relationships between sporting events and traffic stop activity.
+* **[Final Report](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/blob/main/Passion%20or%20Public%20Disorder/Passion%20or%20Public%20Disorder%2C%20Senior%20Group%20Project.pdf)**: A summary of our methodology, analysis, findings, and conclusions.
 
 ## Skills Demonstrated
 * Python
