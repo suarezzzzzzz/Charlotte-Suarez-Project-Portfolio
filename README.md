@@ -11,7 +11,7 @@ My technical experience includes Python, R, SQL, SPSS, and Excel, with experienc
 
 ## Featured Project Samples
 
-### Pitch Clock in Play
+### [Pitch Clock in Play](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/tree/bfcd69e001e5768a433ce911218aea1fe6b1cb1e/Pitch%20Clock%20in%20Play)
 
 *Exploring the Impact of the Introduction of the Pitch Clock on MLB Pitchers*
 
@@ -40,3 +40,6 @@ An interactive dashboard investigating historical disparities in federal crack a
 ---
 
 **Contact: csuarez@utexas.edu**
+
+## Note
+This repository is intended to demonstrate my approach to analytics, statistical modeling, and communicating findings. It represents a condensed version of a few large semester-long academic projects completed collaboratively during my time in college. It includes selected components of the original work chosen to reflect *my* skills and contributions to the project.
