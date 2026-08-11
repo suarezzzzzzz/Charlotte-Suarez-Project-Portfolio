@@ -1,6 +1,6 @@
 # Pitch Clock in Play: Exploring the Impact of the Introduction of the Pitch Clock on MLB Pitchers
 
-* **Partners**: Kevin Lynch, Larry Nguyen, Alejandro Zamudio*
+*Partners: Kevin Lynch, Larry Nguyen, Alejandro Zamudio*
 
 ## Project Overview
 
