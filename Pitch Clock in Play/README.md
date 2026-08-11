@@ -2,6 +2,8 @@
 
 *Partners: Kevin Lynch, Larry Nguyen, Alejandro Zamudio*
 
+---
+
 ## Project Overview
 
 This project was completed as part of my Practical Machine Learning course during my junior year at The University of Texas at Austin. The project investigated the impact of MLB's 2023 pitch clock implementation on pitcher performance using data from the 2022 and 2023 seasons.
