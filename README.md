@@ -25,7 +25,7 @@ A baseball analytics project investigating how the introduction of the MLB pitch
 
 A relational data project examining the relationship between Philadelphia professional sporting events and traffic enforcement. The project integrated Stanford Open Policing Project data with 4 different major sports datasets to create a relational database and investigate police stop patterns surrounding sporting events.
 
-### Federal Drug Sentencing Dashboard
+### [Federal Drug Sentencing Dashboard](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/tree/main/Federal%20Drug%20Sentencing%20Dashboard)
 
 An interactive dashboard investigating historical disparities in federal crack and powder cocaine sentencing. The project involved parsing and cleaning a dataset containing nearly 600 variables, conducting historical research, and developing an interactive visualization tool for exploring sentencing trends and demographic patterns.
 
