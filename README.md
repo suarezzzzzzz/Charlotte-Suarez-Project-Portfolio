@@ -28,6 +28,7 @@ A relational data project examining the relationship between Philadelphia profes
 An interactive dashboard investigating historical disparities in federal crack and powder cocaine sentencing. The project involved parsing and cleaning a dataset containing nearly 600 variables, conducting historical research, and developing an interactive visualization tool for exploring sentencing trends and demographic patterns.
 
 ## Skills
+
 **Programming & Analysis**: Python · R · SQL · SPSS · Excel
 
 **Python**: pandas · NumPy · scikit-learn · Matplotlib · PyBaseball · MLB StatsAPI
