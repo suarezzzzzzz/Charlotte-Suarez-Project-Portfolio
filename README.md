@@ -19,7 +19,7 @@ My technical experience includes Python, R, SQL, SPSS, and Excel, with experienc
 
 A baseball analytics project investigating how the introduction of the MLB pitch clock affected pitcher performance using 2022–2023 Statcast data. The project incorporated K-means clustering, Random Forest classification, logistic regression, and PCA.
 
-### Passion or Public Disorder
+### [Passion or Public Disorder](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/tree/main/Passion%20or%20Public%20Disorder)
 
 *Exploring Philadelphia Police Stop Data in Relation to Major Sporting Events*
 
