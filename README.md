@@ -1,11 +1,8 @@
 # Charlotte Suarez | Data Science & Analytics Portfolio
 *Selected projects showcasing my work in data science, statistics, analytics, and sports.*
 ---
-
 ## About Me
-
 I am a recent graduate of The University of Texas at Austin with a B.S. in Statistics and Data Science and a minor in The Analytics and Business of Sports. I am passionate about using data to answer meaningful questions, solve problems, and communicate insights clearly.
-
 My technical experience includes Python, R, SQL, SPSS, and Excel, with experience in statistical modeling, machine learning, data visualization, data cleaning, and relational databases.
 
 ## Featured Project Samples
