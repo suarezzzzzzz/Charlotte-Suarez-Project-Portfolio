@@ -2,6 +2,8 @@
 
 *Partners: Medhavi Jambhekar, Vijetha Ramdas, Jasmine Xu, Alejandro Zamudio*
 
+---
+
 ## Project Overview
 
 This project was completed as part of my Case Studies in Data Science course taken during my senior year at The University of Texas at Austin. The objective was to integrate the Stanford Open Policing Project (SOPP) traffic stop dataset with at least one additional public database to investigate a meaningful real-world question using relational data.
