@@ -1,6 +1,8 @@
 # Charlotte Suarez | Data Science & Analytics Portfolio
 *Selected projects showcasing my work in data science, statistics, analytics, and sports.*
 
+**csuarez@utexas.edu**
+
 ---
 
 ## About Me
@@ -38,8 +40,6 @@ An interactive dashboard investigating historical disparities in federal crack a
 **Methods**: Statistical Modeling · Machine Learning · Data Cleaning · Data Visualization · Exploratory Data Analysis · Predictive Modeling · Relational Databases
 
 ---
-
-**Contact: csuarez@utexas.edu**
 
 ## Note
 This repository is intended to demonstrate my approach to analytics, statistical modeling, and communicating findings. It represents a condensed version of a few large semester-long academic projects completed collaboratively during my time in college. It includes selected components of the original work chosen to reflect *my* skills and contributions to the project.
