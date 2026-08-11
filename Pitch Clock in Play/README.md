@@ -16,7 +16,7 @@ We used pitch-by-pitch data, single-game data, and yearly aggregates collected t
 
 ## Repository Components
 
-* **Final Presentation**: A summary of our research question, methodology, modeling, findings, and conclusions
+* **[Final Presentation](https://github.com/suarezzzzzzz/Charlotte-Suarez-Project-Portfolio/blob/6c63f6a02591ddea2d3814e97275053d3777e8c9/Pitch%20Clock%20in%20Play/Pitch%20Clock%20in%20Play.pdf)**: A summary of our research question, methodology, modeling, findings, and conclusions
 
 ## Skills Demonstrated
 * Python
