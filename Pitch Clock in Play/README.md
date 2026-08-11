@@ -1,6 +1,6 @@
 # Pitch Clock in Play: Exploring the Impact of the Introduction of the Pitch Clock on MLB Pitchers
 
-*Partners: Kevin Lynch, Larry Nguyen, Alejandro Zamudio*
+* **Partners**: Kevin Lynch, Larry Nguyen, Alejandro Zamudio*
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ We used pitch-by-pitch data, single-game data, and yearly aggregates collected t
 * Feature engineering
 * Statistical modeling
 * Machine learning
-* Principal Component Analysis (PCA)
+* Principal component analysis
 * Baseball analytics
 * Data visualization
 * Technical communication
